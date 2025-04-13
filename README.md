@@ -1,4 +1,5 @@
 Project Overview 
+
 To develop a predictive model that accurately estimates customer satisfaction levels using historical customer data. The goal is to identify key drivers of satisfaction and proactively address areas of concern to improve customer experience and retention.  
  
 Tools Used  
@@ -6,7 +7,8 @@ Programming Languages : Python, Machine learning
 Database: SQL  
 Spreadsheet Software: Excel  
  
-About Dataset 
+About Dataset
+
 The Customer Support Ticket Dataset is a dataset that includes customer support tickets for various tech products. It consists of customer inquiries related to hardware issues, software bugs, network problems, account access, data loss, and other support topics. The dataset provides information about the customer, the product purchased, the ticket type, the ticket channel, the ticket status, and other relevant 
 details. 
 The dataset can be used for various analysis and modelling tasks in the customer service domain. 
